@@ -1,6 +1,6 @@
 - 👋 Hi, I’m raviprasath
-- 👀 I’m interested in IT field
-- 🌱 I’m currently learning REACT
+- 👀 I’m interested to explore new thhings with IT world
+- 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on perfect organization 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
